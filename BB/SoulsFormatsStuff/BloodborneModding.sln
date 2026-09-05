@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloodborneMods", "BloodborneMods.csproj", "{3CAA91E3-2F88-4D00-B6E3-356AF25BCD27}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloodborneModding", "BloodborneModding.csproj", "{3CAA91E3-2F88-4D00-B6E3-356AF25BCD27}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
